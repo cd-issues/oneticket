@@ -11,7 +11,7 @@ Shromážděním veřejně známých problémů na jednom místě potenciálně 
 
 ## Rychlé odkazy
 - **[Všechny otevřené připomínky](https://github.com/cd-issues/oneticket/issues)**
-- **[Připomínky k aplikaci PID Lítačka](https://github.com/cd-issues/oneticket/projects/1)** - seřazené podle odhadované priority
+- **[Připomínky graficky](https://github.com/cd-issues/oneticket/projects/1)** - seřazené podle odhadované priority
 
 ## Pravidla a ustanovení
 - Při reportování bugů apod prosím mějte na paměti, že seznam je veřejný. Neuvádějte proto prosím citlivá data jako jsou osobní údaje apod..
